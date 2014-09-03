@@ -1,7 +1,6 @@
 reated by http://www.gitignore.io
 
 .DS_Store
-*.key
 
 ### Eclipse ###
 *.pydevproject
